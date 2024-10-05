@@ -1,0 +1,26 @@
+.wrapper {
+  width: 400px;
+  height: 600px;
+  background-color: black;
+}
+
+body {
+  color: #ffffff;
+}
+
+.head {
+  background-color: #000000;
+  text-align: right;
+  height: 75px;
+}
+
+td {
+  background-color: green;
+  height: 100px;
+  width: 24.5%;
+  text-align: center;
+}
+
+table {
+  width: inherit;
+}
